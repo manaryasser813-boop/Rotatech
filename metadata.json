@@ -1,0 +1,6 @@
+{
+  "name": "TerraOrbit Precision Agriculture",
+  "description": "NASA Space Apps precision farming platform combining satellite parcel mapping, crop rotation and intercropping feasibility, zone-by-zone planting blueprints, daily irrigation tracking, and agricultural marketplaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
